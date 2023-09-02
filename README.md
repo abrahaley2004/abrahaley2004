@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abrahaley2004
 - 👀 I’m interested in Electrical and Electronics Engineering 
-- 🌱 I’m currently learning Control and Instrumentation Enggineering 
+- 🌱 I’m currently learning Control and Instrumentation Engineering 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me  abrahaley.gebrehiwot@adu.edu.et
 
